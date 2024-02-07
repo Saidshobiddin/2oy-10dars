@@ -1,0 +1,123 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  nav div {
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  nav div a {
+    text-decoration: none;
+    color: #333333;
+  }
+  .first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .section1 {
+    height: 800px;
+    background-color: #f3d7b7;
+  }
+  .right1 {
+    position: relative;
+  }
+  .image2 {
+    width: 710px;
+    height: 394px;
+    position: relative;
+    top: 200px;
+    z-index: 0;
+    margin-left: 300px;
+  }
+  .image1 {
+    position: absolute;
+    top: 100px;
+    margin-left: 180px;
+    z-index: 999;
+    transform: rotate(-25deg);
+  }
+  .left1 {
+    width: 470px;
+    font-size: larger;
+    position: absolute;
+    margin-right: 650px;
+  margin-top: 180px;
+  font-size: 30px;
+  margin-bottom: 100px;
+  }
+  .left9{
+    width: 1950px;
+     margin-left: 180px;
+     margin-bottom: -300px;
+    }
+    .section2{
+     height: 600px;
+    }
+    .ong1p{
+        width: 646px;
+        position: absolute;
+      top: 1100px;
+      margin-left:750px ;
+    }
+    .cap1{
+        margin-right: 900px;
+        position: absolute;
+        top: 1000px;
+       
+    }
+    .container{
+        display: flex;
+        align-items: center;justify-content: center;
+    }
+    .ong1h1{
+        position: absolute;
+        top: 1000px;
+        margin-right: -600px;
+        width: 500px;
+        font-size: 30px;
+        font-weight: 100px;
+    }
+   .section3{
+    height: 600px;
+    background-color: #C99B67;
+   }
+   .cap8{
+    width:639px;
+    position: relative;
+    top: 200px;
+   }
+   .ong8{
+    position: absolute;
+    margin-left: 900px;
+    top: 1300px;
+   }
+   .cap8 h1{
+    font-weight: 500px;
+   }
+   footer{
+    height: 100px;
+    background-color: #F3D7B7;
+    display: flex;align-items: center;
+  }
+  .nauw{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+  }
+  .nauw a{
+    text-decoration: none;
+    color: #333333;
+  }
+  .miw{
+    align-items: center;
+   margin-left: 300px;
+   justify-content: space-around;
+   display: flex;
+   gap: 20px;
+  }
